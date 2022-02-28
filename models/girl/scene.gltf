@@ -1,0 +1,339 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 18537,
+      "max": [
+        45.391777038574219,
+        24.464426040649414,
+        159.66845703125
+      ],
+      "min": [
+        -22.627761840820312,
+        -30.052419662475586,
+        -0.33765798807144165
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 222444,
+      "componentType": 5126,
+      "count": 18537,
+      "max": [
+        0.99997282028198242,
+        0.99999040365219116,
+        0.99957352876663208
+      ],
+      "min": [
+        -0.99998730421066284,
+        -0.99998593330383301,
+        -0.99998205900192261
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 18537,
+      "max": [
+        0.99997669458389282,
+        0.99995523691177368,
+        0.99995934963226318,
+        1
+      ],
+      "min": [
+        -0.99958151578903198,
+        -0.99986547231674194,
+        -0.99992161989212036,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 18537,
+      "max": [
+        0.99794000387191772,
+        0.99804002046585083
+      ],
+      "min": [
+        0.0019499999471008778,
+        0.0019499999471008778
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 88659,
+      "max": [
+        18536
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 444888,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        -0.86058199405670166,
+        1.2195760011672974,
+        150.356201171875
+      ],
+      "min": [
+        -10.301435470581055,
+        -2.5681500434875488,
+        146.06454467773438
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 448404,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        0.99369919300079346,
+        0.99959158897399902,
+        0.99149274826049805
+      ],
+      "min": [
+        -0.98993605375289917,
+        -0.99826467037200928,
+        -0.99073308706283569
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 296592,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        0.99824482202529907,
+        0.98844677209854126,
+        0.94334232807159424,
+        1
+      ],
+      "min": [
+        -0.95749360322952271,
+        -0.99901580810546875,
+        -0.57573229074478149,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 148296,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        0.55472999811172485,
+        0.57223999500274658
+      ],
+      "min": [
+        0.38409999012947083,
+        0.53953999280929565
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 354636,
+      "componentType": 5125,
+      "count": 1428,
+      "max": [
+        292
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Arion Digital (https://sketchfab.com/andrewswihart)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/woman-standing-after-workout-300e074a2c2047f583d6573a966118a4",
+      "title": "Woman standing after workout"
+    },
+    "generator": "Sketchfab-7.51.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 360348,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 150640,
+      "byteOffset": 360348,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 451920,
+      "byteOffset": 510988,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 301280,
+      "byteOffset": 962908,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1264188,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/10781_w_Juliette_2k_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/10781_w_Juliette_2k_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "10781_w_Juliette_2k",
+      "normalTexture": {
+        "index": 1,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "10781_w_Juliette_30k.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
